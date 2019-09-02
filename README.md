@@ -1,8 +1,6 @@
 # notes-node
  Simple Node.js app used for adding/reading/deleting notes in JSON file
  
-Node.js project thanks to this [Udemy course](https://www.udemy.com/the-complete-nodejs-developer-course-2/).
-
 ## Installation
 
 ```sh
